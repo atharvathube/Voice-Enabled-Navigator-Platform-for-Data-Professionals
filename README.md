@@ -37,7 +37,7 @@ ________________________________________________________________________________
 
 Research Papers 📄🔍
 •	Enhanced AI Voice Assistance using ML and NLP (IEEE) https://doi.org/10.1109/STCR59085.2023.10396893
-•	Salary Prediction Using Machine Learning (IJASRET) https://ijasret.com/upload_files/paper/9__Prakash%20Tiwari-100024.pdf
+•	Salary Prediction Using Machine Learning (IJASRET) https://www.ijasret.com/VolumeArticles/FullTextPDF/842_47._SALARY_PREDICTION_USING_MACHINE_LEARNING.pdf
 •	Job Recommendation System using Machine Learning (IEEE) https://doi.org/10.1109/ICAIS56108.2023.10073757
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 

@@ -67,7 +67,5 @@ Research Papers 📄🔍
 • Job Recommendation System using Machine Learning (IEEE) https://doi.org/10.1109/ICAIS56108.2023.10073757
 
 ____________________________________________________________________________________________________________________________________________________________________
-Video 📹
 
-https://github.com/user-attachments/assets/4ae54e68-29d7-48cc-bbff-7cd976a09f00
 
